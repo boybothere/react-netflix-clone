@@ -8,7 +8,7 @@ A simple **Netflix-inspired web app** built with **React (Vite) + Firebase** and
 - Firebase Authentication (Email/Password)  
 - Video Player with dynamic routes (`/player/:id`)  
 - Responsive design with custom CSS  
-- Toast notifications for login/logout  
+- Toast notifications for login/signup error handling  
 - Live on Vercel  
 
 ## Tech Stack
